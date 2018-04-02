@@ -11,7 +11,7 @@ export default class Home extends Component {
       <Grid>
         <Jumbotron>
           <h2>Welcome to Code Practice Playground</h2>
-          <p>This app to show how react-bootstrap works and practice react-bootstrap and react-router-dom. </p>
+          <p>This website is an example work of react-bootstrap and react-router-dom. </p>
           <Link to='/about'>
             <Button bsStyle="primary">About ... </Button>
           </Link>
